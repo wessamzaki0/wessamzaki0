@@ -1,9 +1,11 @@
 <h4 align="center"><samp> Hi there 👋🏾 welcome to my GitHub! I'm Wesam Mohamed.
 I expanded my expertise into graphic design, media production, content creation, and video editing🩺🎬. </samp></h4>
-
 <p align="center">
-  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
-</p>
+
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=F75C7E&center=true&vCenter=true&width=550&lines=Fixing+knees+by+day+%F0%9F%A6%B5;Fixing+videos+by+night+%F0%9F%8E%AC;Rendering...+99%25+(forever)+%E2%8F%B3;Ctrl%2BZ+is+my+best+friend+%E2%86%A9%EF%B8%8F"/>
+
+
 
 <p align="center"><samp>
 📸 Media Production Enthusiast &nbsp;|&nbsp; ✍️ Content Creator &nbsp;|&nbsp; 🦿 Physical Therapy Student
@@ -29,6 +31,7 @@ I expanded my expertise into graphic design, media production, content creation,
 <a href="https://www.facebook.com/wessamzaki.2"><img src="https://img.icons8.com/windows/32/000000/facebook-new.png"/></a>
 <a href="https://www.linkedin.com/in/wessam-zaki-5a376037b"><img src="https://img.icons8.com/windows/32/000000/linkedin.png"/></a>
 <a href="mailto:wesofstdtosecd@gmail.com"><img src="https://img.icons8.com/windows/32/000000/mail.png"/></a>
+
 </p>
 <p align="center"><samp>
 Check out my projects ⬇️
