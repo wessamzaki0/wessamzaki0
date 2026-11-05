@@ -27,11 +27,11 @@ I expanded my expertise into graphic design, media production, content creation,
 </p>
 
 <p align="center">
-<a href="https://instagram.com/weziio"><img src="https://img.icons8.com/windows/32/000000/instagram-new.png"/></a>
+<a href="https://www.instagram.com/wezii0"><img src="https://img.icons8.com/windows/32/000000/instagram-new.png"/></a>
 <a href="https://www.facebook.com/wessamzaki.2"><img src="https://img.icons8.com/windows/32/000000/facebook-new.png"/></a>
 <a href="https://www.linkedin.com/in/wessam-zaki-5a376037b"><img src="https://img.icons8.com/windows/32/000000/linkedin.png"/></a>
 <a href="mailto:wesofstdtosecd@gmail.com"><img src="https://img.icons8.com/windows/32/000000/mail.png"/></a>
-
+</p>
 </p>
 <p align="center"><samp>
 Check out my projects ⬇️
