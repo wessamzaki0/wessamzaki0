@@ -1,35 +1,35 @@
-
-<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm an Open Source Contributor and Professional Yak Shaver. I also like Python and I'm exploring Cloud Tech 🐍 ☁️ </samp></h4>
+<h4 align="center"><samp> Hi there 👋🏾 welcome to my GitHub! I'm Wesam Mohamed.
+I expanded my expertise into graphic design, media production, content creation, and video editing🩺🎬. </samp></h4>
 
 <p align="center">
   <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
 
+<p align="center"><samp>
+📸 Media Production Enthusiast &nbsp;|&nbsp; ✍️ Content Creator &nbsp;|&nbsp; 🦿 Physical Therapy Student
+</samp></p>
+
+<h3 align="center"><samp>🛠️ Tools I use</samp></h3>
+<p align="center">
+ 
+
+  <img src="https://skillicons.dev/icons?i=ps,pr,ae&perline=6"/>
+</p>
 
 <p align="center">
-<a href= "https://dev.to/ari_hacks"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
-<a href= "https://twitter.com/ari_hacks"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
-<a href= "https://ko-fi.com/ari_hacks"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </p>
 
+<p align="center">
+<a href="https://instagram.com/weziio"><img src="https://img.icons8.com/windows/32/000000/instagram-new.png"/></a>
+<a href="https://www.facebook.com/wessamzaki.2"><img src="https://img.icons8.com/windows/32/000000/facebook-new.png"/></a>
+<a href="https://www.linkedin.com/in/wessam-zaki-5a376037b"><img src="https://img.icons8.com/windows/32/000000/linkedin.png"/></a>
+<a href="mailto:wesofstdtosecd@gmail.com"><img src="https://img.icons8.com/windows/32/000000/mail.png"/></a>
+</p>
 <p align="center"><samp>
-Check out my repos ⬇️  
-  </samp>
-</p>
-
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=ari-hacks.ari-hacks)
- -->
-<!--
-**ari-hacks/ari-hacks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out my projects ⬇️
+</samp></p>
