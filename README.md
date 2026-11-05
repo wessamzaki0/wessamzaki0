@@ -1,5 +1,5 @@
 <h4 align="center"><samp> Hi there 👋🏾 welcome to my GitHub! I'm Wesam Mohamed.
-I expanded my expertise into graphic design, media production, content creation, and video editing🩺🎬. </samp></h4>
+I have expanded my expertise into graphic design, media production, content creation, and video editing🩺🎬. </samp></h4>
 <p align="center">
 
   
